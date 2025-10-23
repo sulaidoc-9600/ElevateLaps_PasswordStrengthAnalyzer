@@ -1,2 +1,10 @@
-# ElevateLaps_PasswordStrengthAnalyzer
-Python project for Elevate Laps Cyber Security Internship.  Analyzes password strength based on uppercase, lowercase, digits, and special characters using regex.
+# Password Strength Analyzer
+👤 Author: Sulaiman  
+🏢 Organization: Elevate Laps — Cyber Security Internship  
+
+## 🔍 Overview
+A simple Python script that analyzes the strength of a given password based on length, uppercase, lowercase, numbers, and special characters.
+
+## ⚙️ How to Run
+1. Run the script:
+#  Enter any password to check its strength.
